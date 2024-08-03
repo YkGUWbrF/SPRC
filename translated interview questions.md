@@ -20,7 +20,7 @@
     - What kind of action is this action? Please briefly describe your understanding of this action. 
     - What are your thoughts on special action? Why do you think so?
     - What is the purpose of this action?
-    - What impact will this action have on your workflow?
+    - What impact does this action have on your workflow?
 
 3. Do you know about some third-party testing agencies or companies, provided by the government or through other channels?
     - Who exactly are these third-party agencies and what is the role of these institutions??
@@ -51,9 +51,9 @@
    - How were these challenges addressed?
    - For this difficulty, what do you think are the ideal resources or tools?
    - Have you ever encountered APP non-compliance due to non-compliance of third-party SDK? How did you sovle this difficulty?
-   - If this problem is not solved, what will happen to the app? Will it be serious?
+   - If this problem is not solved, what would happen to the app? Is it serious?
 
-7. Do you think the developers will use other methods to bypass privacy compliance detection in order to meet privacy compliance?
+7. Do you think the developers can use other methods to bypass privacy compliance detection in order to meet privacy compliance?
    - How might this be realized? 
    - What tools or techniques might be used?
    - Are these technologies public?
@@ -67,25 +67,25 @@
       - If yes, what kind of training? When did you participate? What do you think of the effect? Are there areas where this training could be improved?
       - If not, how did you obtain this knowledge? What kind of training do you think developers should receive?
 
-10. Will the app you develop collect user information?
+10. Can the app you developed collect user information?
     - What information is collected?
     - How is it collected?
-    - Regarding this kind of information collection, how will your app handle privacy issues?
+    - Regarding this kind of information collection, how can your app handle privacy issues?
 
 11. How does your company design privacy compliance business?
     - What is its position in the complete development process of APP?
     - What is the specific process?
     - How important is it?
     - Does satisfying privacy compliance conflict with the company's existing business, or even conflict of interest?
-    - If there is no such business, will the privacy compliance process be added in the future?
+    - If there is no such business, can the privacy compliance process be added in the future?
 
 12. What is your company’s attitude towards this notification/rectification?
     - Does this notification have any impact on the company? What is the impact?
     - What was the reaction of the leader, employees or colleagues at that time?
     - What financial and human costs did the company spend to solve these problems?
-    - Will the privacy compliance of the app change after the resolution is resolved? What changes have been made?
+    - Does the privacy compliance of the app change after the resolution is resolved? What changes have been made?
  
-13.  What impact do you think privacy compliance will have on the industry? Why does this have this effect?
+13.  What impact do you think privacy compliance could have on the industry? Why does this have this effect?
 
 14. What do you think is the biggest challenge in privacy design when developing apps? What kind of technical, human or policy support is needed? 
 
