@@ -12,36 +12,35 @@
 ## Interview Questions
 1. Do you know the policies, laws and regulations on personal data and privacy protection issued by China in recent years?
    - Have you read these policies and regulations in detail? If not, why not read it?
-   - Can you briefly describe your understanding of these policies and regulations? 
-   - What is the purpose of these laws and regulations?
-   - Are there any difficulties in understanding these policies and regulations?
+   - Can you briefly describe your understanding of them? 
+   - What is the purpose of these laws and regulations? If yes, please explain.
 
-2. Do you know about the “Special Action on APP Infringement of User Rights” launched by MIIT in China?
-    - What kind of action is this action? Please briefly describe your understanding of this action. 
-    - What are your thoughts on special action? Why do you think so?
-    - What is the purpose of this action?
+2. Do you know about the “Special Privacy Rectification Campaigns” launched by MIIT?
+    - Please briefly describe your understanding of this action. 
+    - What are your opinions on special action? Why do you think so?
+    - What do you think the purpose of this action is?
     - What impact does this action have on your workflow?
 
-3. Do you know about some third-party testing agencies or companies, provided by the government or through other channels?
-    - Who exactly are these third-party agencies and what is the role of these institutions??
-    - Have you used it yourself or been tested by some institutions?
-    - Can you describe what exactly these institutions do?
-        - What is the testing process and what steps are required?
-        - What information does the company or developer need to provide? Is it troublesome to prepare these materials?
-    - What are the test results of these third-party agencies?
-        - How do you evaluate the test results of third-party testing agencies?
-        - Why do you rate it this way?
+3. Have you heard about the third-party testing agencies or companies, authorized by the government?
+    - Who exactly are these third-party agencies? What is the role of these institutions in SPRC?
+    - Have your app(s) been tested by them?
+    - Can you describe the process with them?
+        - What steps?
+        - What does the company or developer need to provide? Any challenges?
+    - What are the test results from these third-party agencies?
+        - How do you evaluate the test results?
+        - Why do you evaluate it this way?
         - How transparent do you think these third-party testing agencies are? Why do you think so?
     - Are there any fees?
 
-4. Has the APP developed by your company been notified? 
-    - Please describe in detail what was reported at that time or give an example.
-    - How did you learn about this notification/rectification requirement?
+4. Has the APP developed by your company been notified by MIIT for non-compliance? 
+    - Please describe in detail what was reported at that time.
+    - How did you nterpret it?
     - Do you think this notification/rectification is reasonable? Why?
-    - Have you communicated these matters with other app developers who were notified?
+    - Have you communicated these issues with other app developers who were also notified?
     
 5. Did you later solve the problems involved in this notification/rectification?
-    - How did you solve the problems involved in the report? Can you give any examples?
+    - How did you solve the problems? Can you give any examples?
     - What tools and methods did you use in the solution process?
     - When you solve this problem, which departments in the company are involved and what processes are required?
     - Does the resolution process only involve the privacy policy and its modification? What do you think of this solution?
@@ -49,17 +48,17 @@
 
 6. What challenges or difficulties have you encountered in solving the problem?
    - How were these challenges addressed?
-   - For this difficulty, what do you think are the ideal resources or tools?
-   - Have you ever encountered APP non-compliance due to non-compliance of third-party SDK? How did you sovle this difficulty?
-   - If this problem is not solved, what would happen to the app? Is it serious?
+   - For these challenges, what resources or tools did you need?
+   - Did these challenges involve SDK ? How did you sovle it?
+   - If this problem is not solved, what would happen to the app?
 
-7. Do you think the developers can use other methods to bypass privacy compliance detection in order to meet privacy compliance?
+7. Are there other methods to bypass privacy compliance detection in order to meet privacy compliance?
    - How might this be realized? 
    - What tools or techniques might be used?
    - Are these technologies public?
 
-8. How effective do you think the current privacy compliance rectification is?
-    - Has the purpose of privacy compliance and rectification been achieved?
+8. How effective do you think the current SPRC is?
+    - Has the purpose of SPRC been achieved?
     - What areas do you think can be improved in this reporting/rectification method?
  
 9. As a developer/tester/security staff, how do you consider privacy compliance in your business?
