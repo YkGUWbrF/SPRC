@@ -6,4 +6,4 @@ You will be asked to participate in an interview, which will last approximately 
 
 During the research process, your information will be de-identified and will not be shared with anyone outside the research team. Your personal information (such as name, gender, company, etc.) and research-related information (samples, audio data, etc.) will be kept strictly confidential, used only by the researchers involved in this project, and ensured not to be disclosed to third parties. Any public reports related to the research findings will not disclose your personal identity.
 
-Upon completion of the study, you will receive a $15 Amazon gift card (or 100 RMB) as compensation. Thank you for your support of this research.
+Upon completion of the study, you will receive 100 RMB as compensation. Thank you for your support of this research.
