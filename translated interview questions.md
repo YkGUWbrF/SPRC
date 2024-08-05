@@ -1,10 +1,10 @@
 
-## Warm questions
+## Warm-up questions
     - Where is your company located?
     - Please briefly introduce your work?
     - What’s the size of your company?
-    - How long have you been for this job?
-    - What is the position of your company?
+    - How long have you been working for this job?
+    - What is your job title in the company?
     - What is your role in the app development process?
     - What is the type of app you develop?
     - What is the user type of the app you develop?
