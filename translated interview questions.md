@@ -11,9 +11,9 @@
 
 ## Interview Questions
 1. Do you know the policies, laws and regulations on personal data and privacy protection issued by China in recent years?
-   - Have you read these policies and regulations in detail? If not, why not read it?
+   - Have you read these policies and regulations in detail?
    - Can you briefly describe your understanding of them? 
-   - What is the purpose of these laws and regulations? If yes, please explain.
+   - What is the purpose of these laws and regulations?
 
 2. Do you know about the “Special Privacy Rectification Campaigns” launched by MIIT?
     - Please briefly describe your understanding of this action. 
@@ -29,13 +29,13 @@
         - What does the company or developer need to provide? Any challenges?
     - What are the test results from these third-party agencies?
         - How do you evaluate the test results?
-        - Why do you evaluate it this way?
+        - Why do you evaluate it this way?
         - How transparent do you think these third-party testing agencies are? Why do you think so?
     - Are there any fees?
 
 4. Has the APP developed by your company been notified by MIIT for non-compliance? 
     - Please describe in detail what was reported at that time.
-    - How did you nterpret it?
+    - How did you interpret it?
     - Do you think this notification/rectification is reasonable? Why?
     - Have you communicated these issues with other app developers who were also notified?
     
@@ -43,7 +43,6 @@
     - How did you solve the problems? Can you give any examples?
     - What tools and methods did you use in the solution process?
     - When you solve this problem, which departments in the company are involved and what processes are required?
-    - Does the resolution process only involve the privacy policy and its modification? What do you think of this solution?
     - Is there any other better solution? If so, why not choose these other solutions?
 
 6. What challenges or difficulties have you encountered in solving the problem?
@@ -63,8 +62,8 @@
  
 9. As a developer/tester/security staff, how do you consider privacy compliance in your business?
     - Have you received training in this area?
-      - If yes, what kind of training? When did you participate? What do you think of the effect? Are there areas where this training could be improved?
-      - If not, how did you obtain this knowledge? What kind of training do you think developers should receive?
+      - What kind of training? When did you participate? What do you think of the effect? Are there areas where this training could be improved?
+      - How did you obtain this knowledge? What kind of training do you think developers should receive?
 
 10. Can the app you developed collect user information?
     - What information is collected?
