@@ -11,7 +11,7 @@
 
 ## Interview Questions
 1. Do you know the policies, laws and regulations on personal data and privacy protection issued by China in recent years?
-   - Have you read these policies and regulations in detail?
+   - Have you read these policies and regulations in detail? If not, why not read it?
    - Can you briefly describe your understanding of them? 
    - What is the purpose of these laws and regulations?
 
@@ -62,8 +62,8 @@
  
 9. As a developer/tester/security staff, how do you consider privacy compliance in your business?
     - Have you received training in this area?
-      - What kind of training? When did you participate? What do you think of the effect? Are there areas where this training could be improved?
-      - How did you obtain this knowledge? What kind of training do you think developers should receive?
+      - If yes, what kind of training? When did you participate? What do you think of the effect? Are there areas where this training could be improved?
+      - If not, how did you obtain this knowledge? What kind of training do you think developers should receive?
 
 10. Can the app you developed collect user information?
     - What information is collected?
